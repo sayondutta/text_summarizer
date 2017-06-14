@@ -1,0 +1,1 @@
+Applied attention on Sequence to Sequence model for the task of Text Summarizer using Tensorflow's raw_rnn. here, I haven't used Tensorflow's inbuilt seq2seq function. The reason behind is to apply attention mechanism manually.
